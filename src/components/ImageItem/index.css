@@ -1,0 +1,18 @@
+.image-item-style {
+  width: 180px;
+
+  /* list-style-type: none; */
+}
+li {
+  list-style: none;
+  display: flex;
+  flex-wrap: nowrap;
+  margin: none;
+  outline: none;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

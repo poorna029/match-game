@@ -1,0 +1,17 @@
+.tab-item {
+  color: #fec653;
+  display: flex;
+  font-size: 15px;
+  font-weight: 400;
+}
+.active-tab-style {
+  border-bottom: 1px solid #fec653;
+  color: #fec653;
+}
+
+.tab-item-button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  color: #fec653;
+}
